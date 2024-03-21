@@ -1,0 +1,1 @@
+# Jurnal05_607062300097_fitriyanuralyashifa
