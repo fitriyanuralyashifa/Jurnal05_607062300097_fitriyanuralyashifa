@@ -27,8 +27,7 @@ public class Jurnal05 {
                     }
                 default:
                     System.out.println("salah input");
-                    break;
+                }
             }
-        }
     }
 }
